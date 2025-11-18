@@ -1,0 +1,3 @@
+.pre-commit-cache/
+.pre-commit-hooks/
+.env
